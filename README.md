@@ -8,7 +8,7 @@ O objetivo principal é praticar manipulação de estados, renderização condic
 
 ---
 
-Feito com ❤️ para o Driven Education.
+Feito com ❤️ 
 
 ## 🚀 Deploy
 
