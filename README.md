@@ -18,4 +18,4 @@ Basta conectar seu repositório no GitHub (ou GitLab/Bitbucket) à Vercel, que e
 
 Depois, não esqueça de colocar o link do deploy abaixo para facilitar o acesso:
 
-**Link do deploy:** [https://seu-projeto.vercel.app](https://zap-recall-deploy.vercel.app/)
+**Link do deploy:** [https://zap-recall-deploy.vercel.app/]
