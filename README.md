@@ -1,4 +1,4 @@
-# 🎴 Projeto Cartas Interativas - Módulo 9 Driven Education
+# 🎴 Projeto Zap Recall - Flashcards - Módulo 9 Driven Education
 
 Este projeto foi desenvolvido como parte do **Módulo 9** do curso **Driven Education**.
 
