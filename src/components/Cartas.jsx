@@ -92,7 +92,7 @@ const ContainerCartas = styled.div`
   gap: 20px;
   align-items: center;
   padding-bottom: 90px;
-  margin-top: -30px;
+  margin-top: -10px;
 `;
 
 const Card = styled.div`
