@@ -12,10 +12,4 @@ Feito com ❤️ para o Driven Education.
 
 ## 🚀 Deploy
 
-Ao terminar o projeto, você obrigatoriamente deverá realizar o deploy utilizando a **Vercel**.
-
-Basta conectar seu repositório no GitHub (ou GitLab/Bitbucket) à Vercel, que ela fará o build e hospedará seu projeto automaticamente.
-
-Depois, não esqueça de colocar o link do deploy abaixo para facilitar o acesso:
-
 **Link do deploy:** (https://zap-recall-deploy.vercel.app/)
